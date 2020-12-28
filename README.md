@@ -3,7 +3,7 @@
 
 ## Установка
 Для того, чтобы установить чат себе на Apache или Nginx сервер, выполните следующие шаги:
-1. Скачайте исходный код чата "TriTochki..." Последний релиз — [![GitHub Release Version](https://img.shields.io/github/v/release/KostyaRyabov/TriTochki)](https://github.com/KostyaRyabov/TriTochki/releases/latest)
+1. Скачайте исходный код чата "TriTochki..." Последний релиз — [![GitHub Release Version](https://img.shields.io/github/v/release/Kinapak/TriTochki)](https://github.com/Kinapak/TriTochki/releases/latest)
 2. Загрузите исходный код в корневую директорию Вашего домена на удаленном или локальном сервере.
 3. Откройте панель администрирования MySQL сервера (например, phpMyAdmin) и сделайте выполнение SQL-файла TriTochki.sql
 4. Заполните переменные $host, $user, $pass, $db в файле db.php в соответствии с настройками Вашего SQL-сервера.
@@ -17,5 +17,5 @@
     Яна @nerisuyy Чиняева
     Андрей @Fyxzz Рыжков
 
-[![GitHub Release Date](https://img.shields.io/github/release-date/KostyaRyabov/TriTochki)](https://github.com/KostyaRyabov/TriTochki/releases/latest) &nbsp; 
-[![GitHub Release Version](https://img.shields.io/github/v/release/KostyaRyabov/TriTochki)](https://github.com/KostyaRyabov/TriTochki/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Kinapak/TriTochki)](https://github.com/Kinapak/TriTochki/releases/latest) &nbsp; 
+[![GitHub Release Version](https://img.shields.io/github/v/release/Kinapak/TriTochki)](https://github.com/Kinapak/TriTochki/releases/latest)
